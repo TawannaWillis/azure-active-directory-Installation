@@ -16,14 +16,13 @@ A step-by-step project demonstrating the setup and configuration of on-premises 
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
-- Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Active Directory Domain Services 
+- Powershell
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Pro (21H2)
-- Ubuntu Server 20.04
+- Windows Server 2022
 
 <h2>Environment Prep</h2>
 
