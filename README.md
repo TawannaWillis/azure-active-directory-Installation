@@ -6,9 +6,9 @@ A step-by-step project demonstrating the setup and configuration of on-premises 
 <h2>Skills</h2>
 
 - Azure Administration
-- Active Directory
-- Virtual Machines
-- Group Policies
+- Active Directory Deployment
+- Virtual Machine Configuration
+- Group Policy Management
 
 
 
