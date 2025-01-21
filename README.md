@@ -1,1 +1,1 @@
-# Installing-Active-Directory-In-Azure-In-
+# Azure-Active-Directory-Configuration
