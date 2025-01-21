@@ -1,14 +1,14 @@
 # Azure-Active-Directory-Configuration
-<h1>Network Security Groups (NSGs) and Inspecting Network Protocols</h1>
-<br /><h2>Objectives</h2>
 
-This project focuses on configuring Network Security Groups (NSGs) in Azure and inspecting network protocols to enhance security. It includes rules setup, traffic monitoring, and protocol analysis. <br />
+<br /><h2>Objectives</h2>
+A step-by-step project demonstrating the setup and configuration of on-premises Active Directory within Azure virtual machines. Includes group policies and user management. <br />
 
 <h2>Skills</h2>
 
-- Network Security
-- Protocol Analysis
-- Azure Networking
+- Azure Administration
+- Active Directory
+- Virtual Machines
+- Group Policies
 
 
 
