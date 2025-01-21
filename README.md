@@ -29,10 +29,6 @@ This project demonstrates the setup and configuration of an on-premises Active D
 - Windows 10 Pro (21H2)
 - Windows Server 2022
 
-<h2>Environment Prep</h2>
-
-<br />-Set up two VMs in Azure within the same virtual network.<br />
-<br />-Configure one VM with Windows 10 Pro and the other with Ubuntu.<br />
-<br />-Use the Windows VM to connect to the Ubuntu VM via command line or PowerShell.<br /> 
+ 
 
 <h2>Actions and Steps</h2>
