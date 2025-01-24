@@ -32,3 +32,7 @@ This project demonstrates the setup and configuration of an on-premises Active D
  
 
 <h2>Actions and Steps</h2>
+<p>
+<img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<p>
