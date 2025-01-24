@@ -33,7 +33,7 @@ This project demonstrates the setup and configuration of an on-premises Active D
 
 <h2>Actions and Steps</h2>
 <p>
-<img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/><br />
 <br />- Set the domain controller VM's IP address to static to ensure proper communication between VMs on the same virtual network.<br />
 <br />- Navigate to the Azure portal and open the **Networking** tab on the domain controller VM.<br />  
 <br />- Select the **Network Interface** and go to the **IP Configurations** tab.<br />  
