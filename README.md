@@ -34,5 +34,9 @@ This project demonstrates the setup and configuration of an on-premises Active D
 <h2>Actions and Steps</h2>
 <p>
 <img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/>
-</p>
+</p>- Set the domain controller VM's IP address to static to ensure proper communication between VMs on the same virtual network.  
+- Navigate to the Azure portal and open the **Networking** tab on the domain controller VM.  
+- Select the **Network Interface** and go to the **IP Configurations** tab.  
+- Toggle the **IP Assignment** to **Static** and save changes.  
+- The static IP ensures the client VM can join the domain created later and serves as a reference for configurations.  
 <p>
