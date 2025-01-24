@@ -41,17 +41,14 @@ This project demonstrates the setup and configuration of an on-premises Active D
 <br />- The static IP ensures the client VM can join the domain created later and serves as a reference for configurations.<br />  
 <p>
 <img src="https://i.imgur.com/4JnmUBm.png" height="80%" width="80%" alt="Installation Steps"/><br />
-<img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/><br />
+<img src="https://i.imgur.com/F2mPzFY.png" height="80%" width="80%" alt="Installation Steps"/><br />
 <img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/><br />
 
 <br />- Log in to the client VM and check connectivity to the domain controller using `ping -t (domain controller private IP)`.  
-<br />- Observe that the connection times out initially.<br />
-<br />- On the domain controller VM, enable ICMPv4 in the local Windows Firewall:  
-  1. Open **Windows Defender Firewall** by typing `wf.msc` in the search bar.  
-  2. Navigate to **Inbound Rules**.  
-  3. Enable **Core Networking Diagnostics - ICMP Echo Request** rules.
-     
-<br />- Return to the client VM and confirm that the ping now resolves successfully.<br />  
+<br />- Observe the the connection.<br />
+<br />- From Client-1, open powershell and run `ipconfig /all` <br />
+<br />- Observe DNS output settings showing DC-1 private IP address 
+  
 
 <img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/><br />
 <br />- Open **Server Manager** on the domain controller VM.  
