@@ -40,7 +40,7 @@ This project demonstrates the setup and configuration of an on-premises Active D
 <br />- Toggle the **IP Assignment** to **Static** and save changes.<br />  
 <br />- The static IP ensures the client VM can join the domain created later and serves as a reference for configurations.<br />  
 <p>
-<img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/><br />
+<img src="https://i.imgur.com/4JnmUBm.png" height="80%" width="80%" alt="Installation Steps"/><br />
 <img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/><br />
 <img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/><br />
 
