@@ -42,7 +42,7 @@ This project demonstrates the setup and configuration of an on-premises Active D
 <p>
 <img src="https://i.imgur.com/4JnmUBm.png" height="80%" width="80%" alt="Installation Steps"/><br />
 <img src="https://i.imgur.com/F2mPzFY.png" height="80%" width="80%" alt="Installation Steps"/><br />
-<img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/><br />
+
 
 <br />- Log in to the client VM and check connectivity to the domain controller using `ping -t (domain controller private IP)`.  
 <br />- Observe the the connection.<br />
