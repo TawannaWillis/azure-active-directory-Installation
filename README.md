@@ -53,4 +53,14 @@ This project demonstrates the setup and configuration of an on-premises Active D
      
 <br />- Return to the client VM and confirm that the ping now resolves successfully.<br />  
 
-
+<img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/><br />
+<br />- Open **Server Manager** on the domain controller VM.  
+<br />- Click **Add Roles and Features** and proceed through the wizard:  
+  1. Confirm the domain controller's private IP address.  
+  2. Select **Active Directory Domain Services** in the **Server Roles** tab.  
+  3. Click **Add Features**, then **Next**, and click **Install**.<br />
+<br />-Promote the server to a domain controller:
+  1. In **Server Manager**, click the warning flag in the top-right corner.  
+  2. Select **Promote this server to a domain controller**.  
+  3. Choose **Add a new forest** and enter a domain name (e.g., `ernestotest.com`).  
+  4. Set a domain password, click **Next** through the screens, and click **Install**.  
