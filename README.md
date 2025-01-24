@@ -3,7 +3,7 @@
 </p>
 
 
-# Azure-Active-Directory-Configuration
+# Azure-Active-Directory-Installation
 
 <br /><h2>Objectives</h2>
 This project demonstrates the setup and configuration of an on-premises Active Directory environment within Azure virtual machines. It covers creating a virtual network, setting up domain controllers. <br />
