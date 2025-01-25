@@ -59,13 +59,13 @@ This project demonstrates the setup and configuration of an on-premises Active D
 <br />-Promote the server to a domain controller:
   1. In **Server Manager**, click the warning flag in the top-right corner.  
   2. Select **Promote this server to a domain controller**.  
-  3. Choose **Add a new forest** and enter a domain name (e.g., `ernestotest.com`).  
+  3. Choose **Add a new forest** and enter a domain name (e.g., `tawannatest.com`).  
   4. Set a domain password, click **Next** through the screens, and click **Install**.
    
 
   <h2>An Important Note </h2>
 
 - Log back into the domain controller VM using Remote Desktop Connection.  
-- Enter login credentials in the format: `domain.com\username` (e.g., `ernestotest.com\labuser`).  
+- Enter login credentials in the format: `domain.com\username` (e.g., `tawannatest.com\labuser`).  
 - Active Directory is now installed and ready for future configurations.  
 - The client VM can now join the newly created domain.  
