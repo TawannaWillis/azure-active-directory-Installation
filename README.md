@@ -50,7 +50,7 @@ This project demonstrates the setup and configuration of an on-premises Active D
 <br />- Observe DNS output settings showing DC-1 private IP address 
   
 
-<img src="https://i.imgur.com/fBRzEZ3.png" height="80%" width="80%" alt="Installation Steps"/><br />
+<img src="https://i.imgur.com/MmFhzi7.png" height="80%" width="80%" alt="Installation Steps"/><br />
 <br />- Open **Server Manager** on the domain controller VM.  
 <br />- Click **Add Roles and Features** and proceed through the wizard:  
   1. Confirm the domain controller's private IP address.  
