@@ -13,7 +13,7 @@ This project demonstrates the setup and configuration of an on-premises Active D
 - Azure Administration
 - Active Directory Deployment
 - Virtual Machine Configuration
-- Group Policy Management
+  
 
 
 
